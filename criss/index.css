@@ -1,0 +1,10 @@
+body h1{
+  color: red;
+}
+body p{
+   font-weight: bold;
+}
+img{
+    height: 400px;
+    width: 600px;
+}
