@@ -3,7 +3,8 @@
     height: 20px;
 }
 #idbotao{
-    color: black;
+    background-color: black;
+    color: white;
 }
 /*(campo de texto com largura de 100px e
 altura de 20px e bot ̃ao da cor preta e texto em cor branca).
